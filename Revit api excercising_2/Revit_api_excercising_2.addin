@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>Plugin 2</Name>
+		<Assembly>Revit api excercising_2.dll</Assembly>
+		<AddInId>41F2B91A-36CA-419F-8AFD-0B827C1B35BA</AddInId>
+		<FullClassName>Revit_api_excercising_2.Class1</FullClassName>
+		<Text>First Addin</Text>
+		<Description>Draw mep ducts form cad lines</Description>
+		<VendorId>ITI</VendorId>
+		<VendorDescription>BIM Development</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<!--<VisibilityMode>AlwaysVisible</VisibilityMode>-->
+
+	</AddIn>
+	<AddIn Type="Application">
+		<Name>My Pluggins</Name>
+		<Assembly>Revit api excercising_2.dll</Assembly>
+		<AddInId>6738092C-B4D2-4300-A53C-AEC44B11A50B</AddInId>
+		<FullClassName>Revit_api_excercising_2.External_Application</FullClassName>
+		<Text>new tab</Text>
+		<Description>tab</Description>
+		<VendorId>Ahmed Fikry</VendorId>
+		<VendorDescription>BIM Development</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+		<!--<VisibilityMode>AlwaysVisible</VisibilityMode>-->
+
+	</AddIn>
+</RevitAddIns>
+

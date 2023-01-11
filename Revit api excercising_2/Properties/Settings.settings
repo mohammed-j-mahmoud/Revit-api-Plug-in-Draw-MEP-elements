@@ -1,0 +1,69 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Manicotti.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="url_window" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="url_door" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="url_columnRect" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="url_columnRound" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="url_columnFamily" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="floorHeight" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">4000</Value>
+    </Setting>
+    <Setting Name="sillHeight" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1200</Value>
+    </Setting>
+    <Setting Name="wallThickness" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">200</Value>
+    </Setting>
+    <Setting Name="jointRadius" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="minLength" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">0.001</Value>
+    </Setting>
+    <Setting Name="layerWall" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WALL</Value>
+    </Setting>
+    <Setting Name="layerColumn" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COLUMN</Value>
+    </Setting>
+    <Setting Name="layerDoor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DOOR</Value>
+    </Setting>
+    <Setting Name="layerWindow" Type="System.String" Scope="User">
+      <Value Profile="(Default)">WINDOW</Value>
+    </Setting>
+    <Setting Name="layerSpace" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SPACE</Value>
+    </Setting>
+    <Setting Name="layerFrame" Type="System.String" Scope="User">
+      <Value Profile="(Default)">FRAME</Value>
+    </Setting>
+    <Setting Name="name_window" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="name_door" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="name_columnRect" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="name_columnRound" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="layerCache" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
