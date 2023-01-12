@@ -1,4 +1,4 @@
-this plug-in is used to automate the drawing of MEP elements in revit such as ducts and pipes using a refranced Autocad File DWG format.
+this plug-in is used to automate the drawing of MEP elements in Revit such as ducts and pipes using a refranced Autocad File DWG format.
 
 This work was created by a team for training purposes during the studying of Civil Engineering Informatics Deploma of the Information technology Institute in Egypt (Smart Village branch).
 
